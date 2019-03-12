@@ -41,6 +41,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-td, th {
+td.posts, th.psosts {
     border: 1px solid #000000
 }
