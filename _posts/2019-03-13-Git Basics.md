@@ -29,8 +29,7 @@ Folders and Files of any type (HTML,CSS,Javascript,documents,data,images)</p>
 <p><font color="red"><b>Commits: </b></font>At GitHub changes are called commits.</p>
 
   
-<p>
-<h2> <font color=blue>Git Commands</font></h2>
-</p>
+
+<h2>Git Commands</h2>
 <p>coming soon!</p>
 </body>
