@@ -4,7 +4,7 @@ title: "Git Basics"
 date: 2019-03-13
 ---
 
-
+<body>
 
 <p><font color="red"><b>Git: </b></font>A distributed version control system.</p>
 
@@ -33,3 +33,4 @@ Folders and Files of any type (HTML,CSS,Javascript,documents,data,images)</p>
 <h2> <font color=blue>Git Commands</font></h2>
 
 <p>coming soon!</p>
+</body>
