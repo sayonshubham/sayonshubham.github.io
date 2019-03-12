@@ -5,7 +5,7 @@ date: 2019-03-13
 ---
 ## Basic commands
 
-|  <font color="blue">COMMAND</font> | <font color="blue">DESCRIPTION</font>   |
+|  COMMAND | DESCRIPTION |
 | ------------ | ------------ |
 |  git clone "url_of_repo" | Create a local copy of a remote repository  |
 |  git status |Check status   |
