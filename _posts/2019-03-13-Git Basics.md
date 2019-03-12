@@ -3,9 +3,9 @@ layout: post
 title: "Git Basics"
 date: 2019-03-13
 ---
-**
 
-## <font color=blue>Git Basics</font>
+
+ <font color=blue>Git Basics</font>
 
 <p><font color="red"><b>Git: </b></font>A distributed version control system.</p>
 
