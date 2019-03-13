@@ -30,5 +30,5 @@ Folders and Files of any type (HTML,CSS,Javascript,documents,data,images)</p>
 
   
 
-<h2>[Git Commands](https://sayonshubham.github.io/blog/2019/03/13/Git-Commands)</h2>
+[Git Commands](https://sayonshubham.github.io/blog/2019/03/13/Git-Commands)
 </body>
