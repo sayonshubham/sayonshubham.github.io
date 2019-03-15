@@ -4,7 +4,7 @@ title: "Ansible Introduction"
 date: 2019-03-15
 ---
 
-<font color="red"><b>Ansible</b></font> is an open source IT Configuration Management, Deployment & Orchestration tool. Ansible is "**agentless**", using SSH to push changes from a single source to multiple remote resources.
+<font color="red"><b>What is Ansible?</b></font>Ansible is an open source IT Configuration Management, Deployment & Orchestration tool. Ansible is "**agentless**", using SSH to push changes from a single source to multiple remote resources.
 Ansible uses <b>playbook</b> to describe automation jobs, and playbook uses very simple language i.e. **YAML** (Yet Another Markup Language - human readable data serialization language commonly used to write configuration files ).
 
 <font color="red"><b>How Ansible Works?</b></font>
